@@ -283,18 +283,6 @@ footer {
   right: 200px;
 }
 
-.footer-list {
-  display: flex;
-  position: absolute;
-  top: 60px;
-  left: 200px;
-}
-
-.footer-list a {
-  font-size: 20px;
-  margin-left: 30px;
-}
-
 .footer-title {
   font-size: 30px;
 }
@@ -455,15 +443,6 @@ footer {
     position: static;
     top: 0;
     right: 0;
-  }
-  
-  .footer-list {
-    opacity: 0;
-    visibility: hidden;
-  }
-  
-  .footer-list a {
-    margin-left: 0px;
   }
   
   .footer-title {
